@@ -11,7 +11,7 @@
 <br />
 <!-- about me -->
 <p align="center">
-  Hi, I'm Sanidhya Kumar Verma, Web Developer/Coder 💻,  Learner 👨‍💻 &  gamer 🦸‍♂️ from India 🇮🇳.
+  Hi, I'm Lokesh Mehar
   <br />
   <br />
   🎓 Currently a high school student.
@@ -63,7 +63,7 @@
 <p align="center">
   <a href="https://skillicons.dev">
       <picture>
-          <source media="(prefers-color-scheme: dark)" srcset='https://skillicons.dev/icons?i=planetscale%2Cvercel%2Cnetlify&theme=dark' />
+          <source media="(prefers-color-scheme: dark)" srcset='https://skillicons.dev/icons?i=planetscale%2Caws%2Cnetlify&theme=dark' />
           <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset='https://skillicons.dev/icons?i=planetscale%2Cvercel%2Cnetlify&theme=light' />
           <img src='https://skillicons.dev/icons?i=planetscale%2Cvercel%2Cnetlify' alt="learning" />
         </picture>
@@ -129,6 +129,7 @@
 <hr />
 
 <!-- repositories -->
+<!--
 <h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
 <br />
 <!-- first row -->
@@ -172,7 +173,7 @@
     </picture>
   </a>
 </div>
-
+-->
 <!-- spaces -->
 
 <br /><br /><br /><br /><br /><br />
