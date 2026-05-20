@@ -1,12 +1,12 @@
 <!-- header banner -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Lokesh%20Mehar&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20Next.js%20%7C%20Open%20Source%20Enthusiast&descAlignY=55&descSize=18" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Lokesh%20Mehar&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Software%20Engineer%20%7C%20IIIT%20Gwalior%20%7C%20Building%20systems%2C%20not%20just%20features&descAlignY=55&descSize=18" width="100%" />
 </div>
 
 <!-- profile view count + animated typing -->
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6E40C9&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Lokesh+Mehar+%F0%9F%91%8B;Full-Stack+%26+Next.js+Developer;High+School+Student+%7C+Freelancer;Building+cool+stuff+one+commit+at+a+time+%F0%9F%9A%80" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6E40C9&center=true&vCenter=true&width=700&lines=Hey%2C+I'm+Lokesh+Mehar+%F0%9F%91%8B;Final+Year+CS+%40+IIIT+Gwalior;Software+Engineer+%7C+Full-Stack+Dev;DSA+%7C+Competitive+Programming+%7C+System+Design;I+build+things+that+actually+work+%F0%9F%9A%80" alt="Typing SVG" />
   </a>
   <br /><br />
   <img src="https://komarev.com/ghpvc/?username=lokeshmehar&style=for-the-badge&color=6E40C9&label=PROFILE+VIEWS" alt="profile views" />
@@ -22,12 +22,15 @@
     <tr>
       <td>
         <h2>🧑‍💻 About Me</h2>
+        <p>Final year undergrad at <strong>IIIT Gwalior</strong>, going deep into software engineering — not just the surface.</p>
+        <p>I spend most of my time writing code that scales, debugging things that shouldn't break, and occasionally winning arguments about system architecture at 2am.</p>
         <ul>
-          <li>🎓 Currently a <strong>high school student</strong></li>
-          <li>💼 Freelancer specializing in <strong>Next.js development</strong></li>
-          <li>🌱 Always learning new technologies and frameworks</li>
-          <li>⚡ Love building products that solve real problems</li>
-          <li>📬 Reach me at <a href="mailto:meharlokesh395@gmail.com">meharlokesh395@gmail.com</a></li>
+          <li>🏛️ <strong>B.Tech CS @ IIIT Gwalior</strong> — Final Year</li>
+          <li>⚙️ Heavy into <strong>system design</strong> — I think about scale before I think about syntax</li>
+          <li>🧠 <strong>DSA & Competitive Programming</strong> — problems are just puzzles with stakes</li>
+          <li>🌐 <strong>Full-Stack Dev</strong> — Next.js, Node, databases, the whole pipeline</li>
+          <li>📐 I care about clean APIs, solid abstractions, and code that the next dev won't curse me for</li>
+          <li>📬 <a href="mailto:meharlokesh395@gmail.com">meharlokesh395@gmail.com</a></li>
         </ul>
       </td>
     </tr>
