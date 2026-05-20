@@ -1,185 +1,229 @@
-<!-- profile view count -->
-<img align="right" src="https://komarev.com/ghpvc/?username=lokeshmehar">
+<!-- header banner -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Lokesh%20Mehar&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20Next.js%20%7C%20Open%20Source%20Enthusiast&descAlignY=55&descSize=18" width="100%" />
+</div>
 
-<!-- introduction -->
-<h1 align="center">
+<!-- profile view count + animated typing -->
+<div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+There!+👋;+Myself+Lokesh+Mehar!;&center=true&font=Righteous&size=35">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6E40C9&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Lokesh+Mehar+%F0%9F%91%8B;Full-Stack+%26+Next.js+Developer;High+School+Student+%7C+Freelancer;Building+cool+stuff+one+commit+at+a+time+%F0%9F%9A%80" alt="Typing SVG" />
   </a>
-</h1>
+  <br /><br />
+  <img src="https://komarev.com/ghpvc/?username=lokeshmehar&style=for-the-badge&color=6E40C9&label=PROFILE+VIEWS" alt="profile views" />
+  &nbsp;
+  <img src="https://img.shields.io/github/followers/lokeshmehar?style=for-the-badge&color=6E40C9&labelColor=1a1a2e&label=FOLLOWERS" alt="followers" />
+</div>
 
 <br />
+
 <!-- about me -->
-<p align="center">
-  Hi, I'm Lokesh Mehar
-  <br />
-  <br />
-  🎓 Currently a high school student.
-  <br />
-  💻 I love to learn new technologies and frameworks.
-  <br />
-  🧑‍💼 I'm currently a freelancer working as a Next.js developer.
-  <br />
-</p>
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <h2>🧑‍💻 About Me</h2>
+        <ul>
+          <li>🎓 Currently a <strong>high school student</strong></li>
+          <li>💼 Freelancer specializing in <strong>Next.js development</strong></li>
+          <li>🌱 Always learning new technologies and frameworks</li>
+          <li>⚡ Love building products that solve real problems</li>
+          <li>📬 Reach me at <a href="mailto:meharlokesh395@gmail.com">meharlokesh395@gmail.com</a></li>
+        </ul>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<br />
 
 <!-- social handles -->
 <div align="center">
-  <!-- gmail -->
-  <a href="mailto:meharlokesh395@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <!-- linkedin -->
-  <a href="https://www.linkedin.com/in/lokeshmehar" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="mailto:meharlokesh395@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/lokeshmehar" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/lokeshmehar" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
 </div>
 
-<hr />
+<br />
+
+<!-- divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+
 <!-- skills -->
-<h2 align="center">🔥 Languages-Frameworks-Tools 🔥</h2>
-<br />
-<p align="center">
-  <a href="https://skillicons.dev">
-      <!-- first row -->
-      <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=nextjs%2Creact%2Cts%2Cjs%2Cpy%2Ccpp%2Cjava%2Chtml%2Ccss%2Ctailwind&theme=dark" />
-          <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://skillicons.dev/icons?i=nextjs%2Creact%2Cts%2Cjs%2Cpy%2Ccpp%2Cjava%2Chtml%2Ccss%2Ctailwind&theme=light" />
-          <img src="https://skillicons.dev/icons?i=nextjs%2Creact%2Cts%2Cjs%2Cpy%2Ccpp%2Cjava%2Chtml%2Ccss%2Ctailwind&theme=light" alt="skills - 1" />
-        </picture>
-          <br />
-          <!-- second row -->
-          <picture>
-            <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=nodejs%2Cexpress%2Cgraphql%2Cmongodb%2Cpostgres%2Credis%2Cprisma%2Cdocker%2Ckubernetes%2Cgit&theme=dark" />
-            <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://skillicons.dev/icons?i=nodejs%2Cexpress%2Cgraphql%2Cmongodb%2Cpostgres%2Credis%2Cprisma%2Cdocker%2Ckubernetes%2Cgit&theme=light" />
-            <img src="https://skillicons.dev/icons?i=nodejs%2Cexpress%2Cgraphql%2Cmongodb%2Cpostgres%2Credis%2Cprisma%2Cdocker%2Ckubernetes%2Cgit&theme=light" alt="skills - 2" />
-        </picture>
-
-  </a>
-</p>
+<h2 align="center">🔥 Tech Stack 🔥</h2>
 <br />
 
-<!-- deployment -->
-<h3 align="center">Deployment & Cloud</h3>
+<h4 align="center">⚡ Languages & Frontend</h4>
 <p align="center">
-  <a href="https://skillicons.dev">
-      <picture>
-          <source media="(prefers-color-scheme: dark)" srcset='https://skillicons.dev/icons?i=aws%2Cgcp%2Cvercel%2Cnginx%2Clinux&theme=dark' />
-          <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset='https://skillicons.dev/icons?i=aws%2Cgcp%2Cvercel%2Cnginx%2Clinux&theme=light' />
-          <img src='https://skillicons.dev/icons?i=aws%2Cgcp%2Cvercel%2Cnginx%2Clinux' alt="deployment & cloud" />
-        </picture>
-  </a>
-</p>
-<hr />
-
-<!-- snake graph -->
-<div align="center">
-  <h2>🐍 Snake eating my contribution 🐍</h2>
-  <br />
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/lokeshmehar/lokeshmehar/blob/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github.com/lokeshmehar/lokeshmehar/blob/output/github-snake.svg" />
-    <img src="https://github.com/lokeshmehar/lokeshmehar/blob/output/github-snake.svg" alt="github-snake" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=nextjs%2Creact%2Cts%2Cjs%2Cpy%2Ccpp%2Cjava%2Chtml%2Ccss%2Ctailwind&theme=dark" />
+    <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://skillicons.dev/icons?i=nextjs%2Creact%2Cts%2Cjs%2Cpy%2Ccpp%2Cjava%2Chtml%2Ccss%2Ctailwind&theme=light" />
+    <img src="https://skillicons.dev/icons?i=nextjs%2Creact%2Cts%2Cjs%2Cpy%2Ccpp%2Cjava%2Chtml%2Ccss%2Ctailwind&theme=dark" alt="Frontend & Languages" />
   </picture>
-  <br />
-  <br />
-  <br />
-</div>
+</p>
 
-  <hr />
+<h4 align="center">🛠️ Backend, Database & DevOps</h4>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=nodejs%2Cexpress%2Cgraphql%2Cmongodb%2Cpostgres%2Credis%2Cprisma%2Cdocker%2Ckubernetes%2Cgit&theme=dark" />
+    <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://skillicons.dev/icons?i=nodejs%2Cexpress%2Cgraphql%2Cmongodb%2Cpostgres%2Credis%2Cprisma%2Cdocker%2Ckubernetes%2Cgit&theme=light" />
+    <img src="https://skillicons.dev/icons?i=nodejs%2Cexpress%2Cgraphql%2Cmongodb%2Cpostgres%2Credis%2Cprisma%2Cdocker%2Ckubernetes%2Cgit&theme=dark" alt="Backend & DevOps" />
+  </picture>
+</p>
+
+<h4 align="center">☁️ Cloud & Deployment</h4>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=aws%2Cgcp%2Cvercel%2Cnginx%2Clinux&theme=dark" />
+    <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://skillicons.dev/icons?i=aws%2Cgcp%2Cvercel%2Cnginx%2Clinux&theme=light" />
+    <img src="https://skillicons.dev/icons?i=aws%2Cgcp%2Cvercel%2Cnginx%2Clinux&theme=dark" alt="Cloud & Deployment" />
+  </picture>
+</p>
+
+<br />
+
+<!-- divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
 <!-- stats -->
-<h2 align="center">⚡ Stats ⚡</h2>
+<h2 align="center">⚡ GitHub Stats ⚡</h2>
 <br />
-<p align=center>
-<!-- first row -->
-  <div align=center>
-  <!-- streak stats -->
-    <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats-eight.vercel.app/?user=lokeshmehar&theme=react&hide_border=true" />
-        <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-streak-stats-eight.vercel.app/?user=lokeshmehar&theme=default&border=61dafb" />
-        <img align="left" width=390 src="https://github-readme-streak-stats-eight.vercel.app/?user=lokeshmehar&theme=default&border=61dafb" alt="lokeshmehar's streak stats" />
-      </picture>
-    </a>
-  <!-- github stats -->
-    <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=lokeshmehar&show_icons=true&theme=react&hide_border=true" />
-        <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-stats.vercel.app/api?username=lokeshmehar&show_icons=true&theme=default&border_color=61dafb" />
-        <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=lokeshmehar&show_icons=true&theme=default&border_color=61dafb" alt="lokeshmehar's github stats" />
-      </picture>
-    </a>
-  </div>
-  <!-- spaces -->
-<br /><br /><br /><br /><br /><br /><br /><br /><br />
-  <!-- contribution graph -->
-  <a href="https://github.com/Ashutosh00710/github-readme-activity-graph" title="Go to Source">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=lokeshmehar&theme=react-dark" />
-      <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=lokeshmehar&bg_color=ffffff&color=708090&line=24292e&point=24292e&area=true&hide_border=true" />
-      <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=lokeshmehar&bg_color=ffffff&color=708090&line=24292e&point=24292e&area=true&hide_border=true" alt="lokeshmehar's contribution graph" />
-    </picture>
-  </a>
-</p>
 
-<hr />
+<div align="center">
+  <!-- streak stats -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=lokeshmehar&theme=tokyonight&hide_border=true&border_radius=10&date_format=M%20j%5B%2C%20Y%5D" />
+    <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://streak-stats.demolab.com/?user=lokeshmehar&theme=default&hide_border=false&border_radius=10&date_format=M%20j%5B%2C%20Y%5D&ring=6E40C9&fire=6E40C9&currStreakLabel=6E40C9" />
+    <img height="195" src="https://streak-stats.demolab.com/?user=lokeshmehar&theme=tokyonight&hide_border=true&border_radius=10" alt="lokeshmehar streak stats" />
+  </picture>
+  &nbsp;&nbsp;
+  <!-- github stats -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=lokeshmehar&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&count_private=true" />
+    <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-stats.vercel.app/api?username=lokeshmehar&show_icons=true&theme=default&hide_border=false&border_radius=10&border_color=6E40C9&count_private=true&icon_color=6E40C9&title_color=6E40C9" />
+    <img height="195" src="https://github-readme-stats.vercel.app/api?username=lokeshmehar&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&count_private=true" alt="lokeshmehar github stats" />
+  </picture>
+</div>
+
+<br />
+
+<!-- top languages -->
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=lokeshmehar&layout=compact&theme=tokyonight&hide_border=true&border_radius=10&langs_count=8" />
+    <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=lokeshmehar&layout=compact&theme=default&hide_border=false&border_radius=10&border_color=6E40C9&title_color=6E40C9&langs_count=8" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lokeshmehar&layout=compact&theme=tokyonight&hide_border=true&border_radius=10&langs_count=8" alt="lokeshmehar top languages" />
+  </picture>
+</div>
+
+<br />
+
+<!-- contribution graph -->
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=lokeshmehar&theme=tokyo-night&hide_border=true&radius=8" />
+    <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=lokeshmehar&bg_color=ffffff&color=6E40C9&line=6E40C9&point=6E40C9&area=true&hide_border=true&radius=8" />
+    <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=lokeshmehar&theme=tokyo-night&hide_border=true&radius=8" alt="lokeshmehar contribution graph" />
+  </picture>
+</div>
+
+<br />
+
+<!-- divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+
+<!-- snake graph -->
+<h2 align="center">🐍 Snake eating my contributions 🐍</h2>
+<br />
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lokeshmehar/lokeshmehar/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://raw.githubusercontent.com/lokeshmehar/lokeshmehar/output/github-snake.svg" />
+    <img src="https://raw.githubusercontent.com/lokeshmehar/lokeshmehar/output/github-snake.svg" alt="github contribution snake" width="100%" />
+  </picture>
+</div>
+
+<br />
+
+<!-- divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
 <!-- repositories -->
-<h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
+<h2 align="center">👨‍💻 Featured Projects 👨‍💻</h2>
 <br />
-<!-- first row -->
-<div width="100%" align="center">
-  <!-- repo 1 -->
-  <a align="right" href="https://github.com/lokeshmehar/streamly" title="Streamly">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=lokeshmehar&repo=streamly&theme=react&border_color=61dafb&border_radius=10.0" />
-      <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=lokeshmehar&repo=streamly&theme=graywhite&border_radius=10.0" />
-      <img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=lokeshmehar&repo=streamly&theme=graywhite&border_radius=10.0" alt="lokeshmehar's repository stats - Streamly" />
-    </picture>
-  </a>
 
-  <!-- repo 2 -->
-  <a align="left" href="https://github.com/lokeshmehar/voidDemon" title="VoidDemon">
+<!-- row 1 -->
+<div align="center">
+  <a href="https://github.com/lokeshmehar/streamly" title="Streamly">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=lokeshmehar&repo=voidDemon&theme=react&border_color=61dafb&border_radius=10" />
-      <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=lokeshmehar&repo=voidDemon&theme=graywhite&border_radius=10" />
-      <img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=lokeshmehar&repo=voidDemon&theme=graywhite&border_radius=10" alt="lokeshmehar's repository stats - VoidDemon" />
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=lokeshmehar&repo=streamly&theme=tokyonight&hide_border=true&border_radius=10" />
+      <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=lokeshmehar&repo=streamly&theme=default&border_color=6E40C9&border_radius=10&title_color=6E40C9&icon_color=6E40C9" />
+      <img height="130" src="https://github-readme-stats.vercel.app/api/pin/?username=lokeshmehar&repo=streamly&theme=tokyonight&hide_border=true&border_radius=10" alt="Streamly" />
     </picture>
   </a>
-</div>
-<br/><br/><br/><br/><br/><br/>
-<!-- second row -->
-<div width="100%" align="center">
-  <!-- repo 3 -->
-  <a align="right" href="https://github.com/lokeshmehar/OctoWrap" title="OctoWrap">
+  &nbsp;&nbsp;
+  <a href="https://github.com/lokeshmehar/voidDemon" title="VoidDemon">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=lokeshmehar&repo=OctoWrap&theme=react&border_color=61dafb&border_radius=10" />
-      <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=lokeshmehar&repo=OctoWrap&theme=graywhite&border_radius=10" />
-      <img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=lokeshmehar&repo=OctoWrap&theme=graywhite&border_radius=10" alt="lokeshmehar's repository stats - OctoWrap" />
-    </picture>
-  </a>
-
-  <!-- repo 4 -->
-  <a align="left" href="https://github.com/lokeshmehar/Xpenso" title="Xpenso">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=lokeshmehar&repo=Xpenso&theme=react&border_color=61dafb&border_radius=10" />
-      <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=lokeshmehar&repo=Xpenso&theme=graywhite&border_radius=10" />
-      <img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=lokeshmehar&repo=Xpenso&theme=graywhite&border_radius=10" alt="lokeshmehar's repository stats - Xpenso" />
-    </picture>
-  </a>
-</div>
-<br/><br/><br/><br/><br/><br/>
-<!-- third row -->
-<div width="100%" align="center">
-  <!-- repo 5 -->
-  <a align="right" href="https://github.com/lokeshmehar/WealthCurve" title="WealthCurve">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=lokeshmehar&repo=WealthCurve&theme=react&border_color=61dafb&border_radius=10" />
-      <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=lokeshmehar&repo=WealthCurve&theme=graywhite&border_radius=10" />
-      <img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=lokeshmehar&repo=WealthCurve&theme=graywhite&border_radius=10" alt="lokeshmehar's repository stats - WealthCurve" />
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=lokeshmehar&repo=voidDemon&theme=tokyonight&hide_border=true&border_radius=10" />
+      <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=lokeshmehar&repo=voidDemon&theme=default&border_color=6E40C9&border_radius=10&title_color=6E40C9&icon_color=6E40C9" />
+      <img height="130" src="https://github-readme-stats.vercel.app/api/pin/?username=lokeshmehar&repo=voidDemon&theme=tokyonight&hide_border=true&border_radius=10" alt="VoidDemon" />
     </picture>
   </a>
 </div>
 
-<br /><br /><br /><br /><br /><br />
+<br />
 
-<!-- show more repos -->
-<h4 align="center">
-  <a href="https://github.com/lokeshmehar?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
-</h4>
+<!-- row 2 -->
+<div align="center">
+  <a href="https://github.com/lokeshmehar/OctoWrap" title="OctoWrap">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=lokeshmehar&repo=OctoWrap&theme=tokyonight&hide_border=true&border_radius=10" />
+      <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=lokeshmehar&repo=OctoWrap&theme=default&border_color=6E40C9&border_radius=10&title_color=6E40C9&icon_color=6E40C9" />
+      <img height="130" src="https://github-readme-stats.vercel.app/api/pin/?username=lokeshmehar&repo=OctoWrap&theme=tokyonight&hide_border=true&border_radius=10" alt="OctoWrap" />
+    </picture>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/lokeshmehar/Xpenso" title="Xpenso">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=lokeshmehar&repo=Xpenso&theme=tokyonight&hide_border=true&border_radius=10" />
+      <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=lokeshmehar&repo=Xpenso&theme=default&border_color=6E40C9&border_radius=10&title_color=6E40C9&icon_color=6E40C9" />
+      <img height="130" src="https://github-readme-stats.vercel.app/api/pin/?username=lokeshmehar&repo=Xpenso&theme=tokyonight&hide_border=true&border_radius=10" alt="Xpenso" />
+    </picture>
+  </a>
+</div>
+
+<br />
+
+<!-- row 3 -->
+<div align="center">
+  <a href="https://github.com/lokeshmehar/WealthCurve" title="WealthCurve">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=lokeshmehar&repo=WealthCurve&theme=tokyonight&hide_border=true&border_radius=10" />
+      <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=lokeshmehar&repo=WealthCurve&theme=default&border_color=6E40C9&border_radius=10&title_color=6E40C9&icon_color=6E40C9" />
+      <img height="130" src="https://github-readme-stats.vercel.app/api/pin/?username=lokeshmehar&repo=WealthCurve&theme=tokyonight&hide_border=true&border_radius=10" alt="WealthCurve" />
+    </picture>
+  </a>
+</div>
+
+<br />
+
+<!-- show more -->
+<div align="center">
+  <a href="https://github.com/lokeshmehar?tab=repositories" title="Show All Repositories">
+    <img src="https://img.shields.io/badge/🔎%20Show%20More%20Repos-%236E40C9?style=for-the-badge" alt="Show More" />
+  </a>
+</div>
+
+<br />
+
+<!-- footer wave -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%" />
+</div>
