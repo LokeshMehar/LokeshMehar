@@ -172,11 +172,11 @@
     </picture>
   </a>
   &nbsp;&nbsp;
-  <a href="https://github.com/lokeshmehar/voidDemon" title="VoidDemon">
+  <a href="https://github.com/lokeshmehar/voidemon" title="VoiDemon">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=lokeshmehar&repo=voidDemon&theme=tokyonight&hide_border=true&border_radius=10" />
-      <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=lokeshmehar&repo=voidDemon&theme=default&border_color=6E40C9&border_radius=10&title_color=6E40C9&icon_color=6E40C9" />
-      <img height="130" src="https://github-readme-stats.vercel.app/api/pin/?username=lokeshmehar&repo=voidDemon&theme=tokyonight&hide_border=true&border_radius=10" alt="VoidDemon" />
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=lokeshmehar&repo=voidemon&theme=tokyonight&hide_border=true&border_radius=10" />
+      <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=lokeshmehar&repo=voidemon&theme=default&border_color=6E40C9&border_radius=10&title_color=6E40C9&icon_color=6E40C9" />
+      <img height="130" src="https://github-readme-stats.vercel.app/api/pin/?username=lokeshmehar&repo=voidemon&theme=tokyonight&hide_border=true&border_radius=10" alt="VoiDemon" />
     </picture>
   </a>
 </div>
@@ -193,11 +193,11 @@
     </picture>
   </a>
   &nbsp;&nbsp;
-  <a href="https://github.com/lokeshmehar/Xpenso" title="Xpenso">
+  <a href="https://github.com/lokeshmehar/placementbrain" title="PlacementBrain">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=lokeshmehar&repo=Xpenso&theme=tokyonight&hide_border=true&border_radius=10" />
-      <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=lokeshmehar&repo=Xpenso&theme=default&border_color=6E40C9&border_radius=10&title_color=6E40C9&icon_color=6E40C9" />
-      <img height="130" src="https://github-readme-stats.vercel.app/api/pin/?username=lokeshmehar&repo=Xpenso&theme=tokyonight&hide_border=true&border_radius=10" alt="Xpenso" />
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=lokeshmehar&repo=placementbrain&theme=tokyonight&hide_border=true&border_radius=10" />
+      <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=lokeshmehar&repo=placementbrain&theme=default&border_color=6E40C9&border_radius=10&title_color=6E40C9&icon_color=6E40C9" />
+      <img height="130" src="https://github-readme-stats.vercel.app/api/pin/?username=lokeshmehar&repo=placementbrain&theme=tokyonight&hide_border=true&border_radius=10" alt="PlacementBrain" />
     </picture>
   </a>
 </div>
@@ -206,11 +206,11 @@
 
 <!-- row 3 -->
 <div align="center">
-  <a href="https://github.com/lokeshmehar/WealthCurve" title="WealthCurve">
+  <a href="https://github.com/lokeshmehar/signlanguagerecognition" title="signLanguageRecognition">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=lokeshmehar&repo=WealthCurve&theme=tokyonight&hide_border=true&border_radius=10" />
-      <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=lokeshmehar&repo=WealthCurve&theme=default&border_color=6E40C9&border_radius=10&title_color=6E40C9&icon_color=6E40C9" />
-      <img height="130" src="https://github-readme-stats.vercel.app/api/pin/?username=lokeshmehar&repo=WealthCurve&theme=tokyonight&hide_border=true&border_radius=10" alt="WealthCurve" />
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=lokeshmehar&repo=signlanguagerecognition&theme=tokyonight&hide_border=true&border_radius=10" />
+      <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=lokeshmehar&repo=signlanguagerecognition&theme=default&border_color=6E40C9&border_radius=10&title_color=6E40C9&icon_color=6E40C9" />
+      <img height="130" src="https://github-readme-stats.vercel.app/api/pin/?username=lokeshmehar&repo=signlanguagerecognition&theme=tokyonight&hide_border=true&border_radius=10" alt="signLanguageRecognition" />
     </picture>
   </a>
 </div>
